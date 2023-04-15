@@ -4,8 +4,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](./desktop-preview)
 
 ### Links
 
